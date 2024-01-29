@@ -1,0 +1,3 @@
+{
+  "storyUpdateHandler": ["custom:sendToPipedream"]
+}
