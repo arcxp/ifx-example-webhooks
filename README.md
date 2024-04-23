@@ -1,4 +1,4 @@
-## Let us know if you find any issues with these instructions or the code. Cheers!
+### _*Disclaimer:* Recipes are reference implementations intended to help developers get started more quickly, but are not guaranteed to cover all scenarios nor are they supported by Arc XP. They are are provided “as is” and Arc XP is not responsible for it after you begin using it. Recipes may be updated to incorporate best practices or new solutions at the sole discretion of Arc XP._
 
 ## Setup
 You will have to create an account and workflow to receive a [Pipedream URL](https://pipedream.com/) to which you will send the data.
