@@ -4,6 +4,12 @@ Example code is provided by a community of developers. They are intended to help
 
 Reiterated from license above, all code in this example is free to use, and as such, there is NO WARRANTY, SLA or SUPPORT for these examples.
 
+## Description
+In this example we will walk through using Inbound Webhooks so that an external service can invoke an integration (with authentication) to "alert" the integration when something has happened (i.e. processing of an audio file is complete). Pipedream is used here, but can be replaced with any external service. Keep in mind with example code you will likely always have to make *some* changes.
+
+This example code can also be used as a starting point for other behaviors. With some modification, you can format data from other external systems and use that information to automate performance of actions within Arc.
+
+Below will walk you through the steps to setup an external service and manage your Inbound Webhook.
 
 ## Setup
 You will have to create an account and workflow to receive a [Pipedream URL](https://pipedream.com/) to which you will send the data.
